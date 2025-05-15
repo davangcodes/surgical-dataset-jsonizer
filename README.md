@@ -120,7 +120,7 @@ Make sure to update `dataset_dir` at the bottom of the script to point to your l
 **Davang Sikand**
 Research Fellow – II
 Plaksha University 
-[LinkedIn](https://www.linkedin.com/in/frustratedmonk) | [GitHub](https://github.com/frustratedmonk)
+[LinkedIn](https://www.linkedin.com/in/davang-sikand))
 
 ---
 
