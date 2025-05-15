@@ -118,8 +118,8 @@ Make sure to update `dataset_dir` at the bottom of the script to point to your l
 ## ✍️ Author
 
 **Davang Sikand**
-Research Fellow – Computer Vision for Surgery
-Plaksha University | Fortis Hospitals | Former Publicis Sapient
+Research Fellow – II
+Plaksha University 
 [LinkedIn](https://www.linkedin.com/in/frustratedmonk) | [GitHub](https://github.com/frustratedmonk)
 
 ---
